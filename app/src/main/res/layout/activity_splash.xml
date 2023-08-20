@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".helpers.SplashActivity"
+    android:background="@color/white">
+
+
+    <!--    <TextView-->
+<!--        android:id="@+id/heading"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_alignParentTop="true"-->
+
+<!--        android:layout_marginStart="116dp"-->
+<!--        android:layout_marginTop="291dp"-->
+<!--        android:fontFamily="@font/fontonebold"-->
+<!--        android:gravity="center_horizontal"-->
+<!--        android:text="IDENTIFY"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="25dp" />-->
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/heading"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:layout_marginStart="139dp"-->
+<!--        android:layout_marginTop="323dp"-->
+<!--        android:fontFamily="@font/fontonebold"-->
+<!--        android:gravity="center_vertical"-->
+<!--        android:text="Be Curious"-->
+<!--        android:textColor="@color/black" />-->
+
+<!--    <com.airbnb.lottie.LottieAnimationView-->
+<!--        android:id="@+id/anime"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="156dp"-->
+
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_marginStart="0dp"-->
+<!--        android:layout_marginTop="574dp"-->
+<!--        android:layout_marginEnd="0dp"-->
+<!--        android:layout_marginBottom="1dp"-->
+<!--        app:lottie_autoPlay="true"-->
+<!--        app:lottie_loop="true"-->
+<!--        app:lottie_rawRes="@raw/splash" />-->
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="128dp"
+        android:layout_height="161dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/owl" />
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_marginEnd="146dp"-->
+<!--        android:layout_marginBottom="35dp"-->
+<!--        android:fontFamily="@font/fontonebold"-->
+<!--        android:text="Be Curious"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="15dp" />-->
+</RelativeLayout>
+
+

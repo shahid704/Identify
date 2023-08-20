@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Identify</string>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:fontFamily">@font/fontonebold</item>
+        <item name="color">#feb352</item>
+
+    </style>
+
+</resources>
